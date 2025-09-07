@@ -1,6 +1,6 @@
 # ✈️ Flight Ticket Price EDA
 
-## 📌 Project Overview
+## 📌 Project Overvie
 This project focuses on **Exploratory Data Analysis (EDA)** of flight ticket price data to understand the factors affecting airfare pricing.  
 The goal is to analyze, clean, and visualize the dataset to uncover meaningful patterns and insights about ticket prices.
 
